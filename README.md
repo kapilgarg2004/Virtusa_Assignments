@@ -11,9 +11,9 @@ Build a Password Strength Checker that validates a string against corporate secu
 
 Student Tasks:
 1. The Policy: The password must be:
-○ At least 8 characters long.
-○ Contain at least one Uppercase letter.
-○ Contain at least one Digit (0-9).
+● At least 8 characters long.
+● Contain at least one Uppercase letter.
+● Contain at least one Digit (0-9).
 2. Looping Logic: Use a for loop to iterate through the string and Character.isUpperCase() / Character.isDigit() to check requirements.
 3. Feedback System: Instead of just saying "Invalid," the program should print specifically: "Missing a digit" or "Too short."
 4. Retry Mechanism: Use a while loop to keep asking the user for a password until they enter a valid one.
@@ -43,20 +43,20 @@ Problem Statement
 Many individuals struggle to track daily expenses and understand spending patterns. Build a Python application that allows users to log, categorize, and analyze their expenses.
 
 Objectives:
-● Record daily expenses (date, category, amount, description)
-● Categorize spending (Food, Travel, Bills, etc.)
-● Generate monthly summaries and insights
+1. Record daily expenses (date, category, amount, description).
+2. Categorize spending (Food, Travel, Bills, etc.).
+3. Generate monthly summaries and insights.
 
 Key Features:
-● CLI or simple GUI input system
-● Data storage using CSV or JSON
-● Monthly expense summary
-● Category-wise breakdown (pie chart using libraries like matplotlib)
-● Detect highest spending category
+1. CLI or simple GUI input system.
+2. Data storage using CSV or JSON.
+3. Monthly expense summary.
+4. Category-wise breakdown (pie chart using libraries like matplotlib).
+5. Detect highest spending category.
 
 Expected Outcome: A tool that helps users understand where their money goes and suggests areas to reduce spending.
 
 Every use case is set up to show how to use it in real life, how to write clean code, and how to find quick fixes.
 
 
-# BY: "Kapil Garg" - Manipal University Jaipur
+BY: "Kapil Garg" - Manipal University Jaipur
